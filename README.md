@@ -3,9 +3,9 @@ My name is Andrew Feagley, I am a Game Developer specializing in Game Design and
 
 # Examples of games I've worked on:
 
-# **BroomBash
+# BroomBash
 
 
 
-# **African Sky
+# African Sky
 
