@@ -1,15 +1,11 @@
 # andrewfeagley.github.io
-My Sim and Serious Portfolio
+My name is Andrew Feagley, I am a Game Developer specializing in Game Design and Programming in Unity.
+
+# Examples of games I've worked on:
+
+# **BroomBash
 
 
-Add in Memory Game pictures(map, wip prototypes), description of game, 
 
-Layout: Each project has a main page with subpages
-  Memory
-     Description
-     Pictures
+# **African Sky
 
-  Empathy
-     Description
-     Pictures
-     Playable Unity game?
